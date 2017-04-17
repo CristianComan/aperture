@@ -1,2 +1,2 @@
 # aperture
-Model radiation from aperture antenna in array configurations.
+Model electromagnetic radiation from aperture antenna by using Mode Matching techniques.
